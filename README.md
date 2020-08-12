@@ -11,3 +11,22 @@ registration.
 - [@jamisonv93](https://github.com/jamisonv93)
 - [@toldge](https://github.com/toldge)
 - [@wrycode](https://github.com/wrycode)
+
+### What I Learned
+
+- Hybrid development methodology (agile & waterfall)
+- MVC framework
+- Event-driven architectural style
+- Front End development
+- Design and planning
+-- wireframing
+-- rapid prototyping
+- git and version control
+- good coding practices
+-- readability
+-- modularity
+-- reusability
+-- adhering to style guide
+-- proper documentation and commenting
+-- separation of concerns
+- designing schema for persistent data storage
