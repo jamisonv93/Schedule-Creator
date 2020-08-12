@@ -19,14 +19,14 @@ registration.
 - Event-driven architectural style
 - Front End development
 - Design and planning
--- wireframing
--- rapid prototyping
+  - wireframing
+  - rapid prototyping
 - git and version control
 - good coding practices
--- readability
--- modularity
--- reusability
--- adhering to style guide
--- proper documentation and commenting
--- separation of concerns
+  - readability
+  - modularity
+  - reusability
+  - adhering to style guide
+  - proper documentation and commenting
+  - separation of concerns
 - designing schema for persistent data storage
