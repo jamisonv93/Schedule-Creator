@@ -30,3 +30,4 @@ registration.
   - proper documentation and commenting
   - separation of concerns
 - designing schema for persistent data storage
+- gained general knowledge of Software Development Lifecycle
