@@ -1,8 +1,6 @@
 ## Description
 
-A schedule builder for students at UNC Greensboro. It can help
-you quickly visualize available weekly schedules and export CRNs for
-registration.
+An interactive, visual schedule builder to aid UNCG students in managing choices during course registration process.
 
 ![screenshot](screenshot.png)
 
