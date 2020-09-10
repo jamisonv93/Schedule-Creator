@@ -1,6 +1,6 @@
 ## Description
 
-This is a schedule creator for students at UNC Greensboro. It can help
+A schedule builder for students at UNC Greensboro. It can help
 you quickly visualize available weekly schedules and export CRNs for
 registration.
 
